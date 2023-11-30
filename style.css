@@ -9,7 +9,7 @@ header {
     background-color: white; 
     color: #fff; 
     text-align: center; 
-    padding: 1rem; 
+    padding: 0; 
 } 
 .logo img {
     max-width: 100%; /* Ensure the logo doesn't exceed its container width */
