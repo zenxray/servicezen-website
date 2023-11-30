@@ -49,6 +49,9 @@ footer {
     color: #fff; 
     text-align: center; 
     padding: 1rem; 
+    position: absolute;
+  bottom: 0;
+  left: 0;
 }
 * {
   box-sizing: border-box;
